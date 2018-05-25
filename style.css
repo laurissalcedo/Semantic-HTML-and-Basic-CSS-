@@ -1,0 +1,50 @@
+/* General styles */
+
+body {
+  margin: 330px;
+}
+
+body > * {
+  padding: 10px;
+  font-size: 20px;
+  border: 20px solid rgba(0,0,0,0.5);
+}
+
+/* specific boxes */
+
+header, footer {
+padding: 30px;
+  font-size: 20px;
+  border: 20px solid rgba(0,0,0,0.5);
+  background-color: blue;
+  color: white;
+}
+
+main {
+    margin-bottom: auto;
+  background-color: royalblue;
+    padding: 30px;
+  font-size: 20px;
+  border: 20px solid rgba(0,0,0,0.5);
+  background-color: blue;
+  color: white;
+}
+
+header {
+    padding: 30px;
+  font-size: 20px;
+  border: 20px solid rgba(0,0,0,0.5);
+  background-color: blue;
+  color: white;
+
+}
+
+footer {
+    margin-bottom: 15px;
+    padding: 30px;
+  font-size: 20px;
+  border: 20px solid rgba(0,0,0,0.5);
+  background-color: blue;
+  color: white;
+
+}
